@@ -18,3 +18,4 @@ services:
       ADMIN_EMAIL: "tech@cryptoware.me"
       ADMIN_PASSWORD: "a156Of7#"
       CORS_ENABLED: "true"
+      PUBLIC_URL: "https://beta-cms.cryptoware.me"
